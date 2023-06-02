@@ -25,7 +25,72 @@ require_once 'admin/backend/config.php';
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia modi dolore magnam! Iste libero voluptatum autem, sapiente ullam earum nostrum sed magnam vel laboriosam quibusdam, officia, esse vitae dignissimos nulla?
         </aside>
         <main>
-            <!-- hier komen de attractiekaartjes -->
+            <div class="flex-container">
+                <!-- hier komen de attractiekaartjes -->
+                <div>
+                    <img src="" alt="">
+                    <p>lorem</p>
+                    <h3>Naam XL</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, dolor soluta!</p>
+                    <p>120cm minimale lengte</p>
+                </div>
+                <div class="big">
+                    <img src="" alt="">
+                    <p>lorem</p>
+                    <h3>Naam XL</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, dolor soluta!</p>
+                    <p>120cm minimale lengte</p>
+                </div>
+                <div>
+                    <img src="" alt="">
+                    <p>lorem</p>
+                    <h3>Naam XL</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, dolor soluta!</p>
+                    <p>120cm minimale lengte</p>
+                </div>
+                <div>
+                    <img src="" alt="">
+                    <p>lorem</p>
+                    <h3>Naam XL</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, dolor soluta!</p>
+                    <p>120cm minimale lengte</p>
+                </div>
+                <div>
+                    <img src="" alt="">
+                    <p>lorem</p>
+                    <h3>Naam XL</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, dolor soluta!</p>
+                    <p>120cm minimale lengte</p>
+                </div>
+                <div class="big">
+                    <img src="" alt="">
+                    <p>lorem</p>
+                    <h3>Naam XL</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, dolor soluta!</p>
+                    <p>120cm minimale lengte</p>
+                </div>
+                <div class="big">
+                    <img src="" alt="">
+                    <p>lorem</p>
+                    <h3>Naam XL</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, dolor soluta!</p>
+                    <p>120cm minimale lengte</p>
+                </div>
+                <div>
+                    <img src="" alt="">
+                    <p>lorem</p>
+                    <h3>Naam XL</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, dolor soluta!</p>
+                    <p>120cm minimale lengte</p>
+                </div>
+                <div>
+                    <img src="" alt="">
+                    <p>lorem</p>
+                    <h3>Naam XL</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, dolor soluta!</p>
+                    <p>120cm minimale lengte</p>
+                </div>
+            </div>
         </main>
     </div>
 

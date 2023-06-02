@@ -177,6 +177,20 @@ th{
     text-align: left;
 }
 
+.flex-container{
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+	grid-template-rows: 33% 33% 33%;
+  padding: 10px;
+}
+.big{
+  grid-column: span 2;
+}
+.flex-container div{
+  padding: 10px;
+  border: #999 1px solid;
+  box-shadow: #999 3px;
+}
 
 
 
